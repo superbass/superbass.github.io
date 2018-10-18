@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tlsplayer.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DEDCA29A3B137958512AF81C4EE59E1276E91B50</string>
+				<key>dateExpires</key>
+				<string>18/10/2019</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>DEDCA29A3B137958512AF81C4EE59E1276E91B50</string>
+						<key>dateExpires</key>
+						<string>18/10/2019</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>TlsFramework.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>M4BS93SG98</string>
+						<key>name</key>
+						<string>Send2 Inc.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>M4BS93SG98.kr.send2.TLSPlayer</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>M4BS93SG98</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>M4BS93SG98.kr.send2.TLSPlayer</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>LiveStudio.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>31014627-e786-4ba8-8572-783f8cd64573</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>M4BS93SG98</string>
+				<key>name</key>
+				<string>Send2 Inc.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
